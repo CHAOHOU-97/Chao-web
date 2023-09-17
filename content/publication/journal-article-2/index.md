@@ -1,13 +1,5 @@
 ---
 title: "Systematic prediction of degrons and E3 ubiquitin ligase binding via deep learning"
-authors:
-- Hou C, Li Y, Wang M, Wu H, Li T
-# author_notes:
-# - "Equal contribution"
-date: "2022-07-14T00:00:00Z"
-publication_types: ["2"]
-publication: "BMC Biol"
-url_pdf: https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01364-6
 
 authors:
 - admin

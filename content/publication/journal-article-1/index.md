@@ -1,12 +1,5 @@
 ---
 title: "PhaSepDB in 2022: annotating phase separation-related proteins with droplet states, co-phase separation partners and other experimental information"
-authors:
-- Hou C#, Wang X#, Xie H#, Chen T, Zhu P, Xu X, You K, Li T
-# author_notes:
-# - "Equal contribution"
-publication_types: ["2"]
-publication: "Nucleic Acids Res"
-url_pdf: 
 
 authors:
 - admin
@@ -34,7 +27,7 @@ publishDate: "2023-01-06T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Nucleic Acids Res"
+publication: "*Nucleic Acids Research"
 publication_short: ""
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
