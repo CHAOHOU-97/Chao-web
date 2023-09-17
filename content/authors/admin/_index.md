@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Chao Hou 侯超
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Chao
+last_name: Hou
 
 # Status emoji
 status:
@@ -14,34 +14,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD of Bioinformatics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Columbia University
+    url: https://www.columbia.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computational biology and genetics.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Protein language model
+  - Genetics
+  - Computational biology
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Postdoc
+      institution: Columbia University
+      year: 2023-
+    - course: PhD of Bioinformatics
+      institution: Peking University
+      year: 2020-2023
+    - course: Bachelor of Medicine and Economics
+      institution: Peking University
+      year: 2015-2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a postdoc at Assoc. Prof. [Yufeng Shen](http://www.columbia.edu/~ys2411) lab @Columbia University, studying computational biology and human genetics. Previously, I got my PhD degree of Bioinformatics from Peking Univeristy. During that time, I developped computational tools to investigate phase separation and protein degradation with Porf. [Tingting Li](http://bioinfolilab.phasep.pro/), including [PhaSepDB](http://db.phasep.pro/) and [PhaSepPred](http://predict.phasep.pro/). I was born in Zhucheng, Shandong, China. I like basketball, photography and skiing. (update: Sep 2023)
 {style="text-align: justify;"}
