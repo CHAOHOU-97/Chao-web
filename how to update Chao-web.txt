@@ -1,1 +1,84 @@
-test
+bjmuh@DESKTOP-NOOJUG5 MINGW64 /d/github/Chao-web
+$ git init
+Initialized empty Git repository in D:/github/Chao-web/.git/
+
+bjmuh@DESKTOP-NOOJUG5 MINGW64 /d/github/Chao-web (master)
+$ git config --global user.name "CHAOHOU-97"
+
+bjmuh@DESKTOP-NOOJUG5 MINGW64 /d/github/Chao-web (master)
+$ git config --global user.email "bjmuhou@gmail.com"
+
+bjmuh@DESKTOP-NOOJUG5 MINGW64 /d/github/Chao-web (master)
+$ git remote -v
+
+bjmuh@DESKTOP-NOOJUG5 MINGW64 /d/github/Chao-web (master)
+$ git remote add origin git@github.com:CHAOHOU-97/Chao-web.git
+
+bjmuh@DESKTOP-NOOJUG5 MINGW64 /d/github/Chao-web (master)
+$ git pull origin main
+remote: Enumerating objects: 2932, done.
+remote: Counting objects: 100% (2932/2932), done.
+remote: Compressing objects: 100% (1372/1372), done.
+remote: Total 2932 (delta 1164), reused 2932 (delta 1164), pack-reused 0
+Receiving objects: 100% (2932/2932), 12.36 MiB | 3.94 MiB/s, done.
+Resolving deltas: 100% (1164/1164), done.
+From github.com:CHAOHOU-97/Chao-web
+ * branch            main       -> FETCH_HEAD
+ * [new branch]      main       -> origin/main
+
+bjmuh@DESKTOP-NOOJUG5 MINGW64 /d/github/Chao-web (master)
+$ git add .
+
+bjmuh@DESKTOP-NOOJUG5 MINGW64 /d/github/Chao-web (master)
+$ git commit -m test
+[master 0ec779b] test
+ 1 file changed, 1 insertion(+)
+ create mode 100644 how to update Chao-web.txt
+
+bjmuh@DESKTOP-NOOJUG5 MINGW64 /d/github/Chao-web (master)
+$ git push origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'github.com:CHAOHOU-97/Chao-web.git'
+
+bjmuh@DESKTOP-NOOJUG5 MINGW64 /d/github/Chao-web (master)
+$ git pull origin main --allow-unrelated-histories
+From github.com:CHAOHOU-97/Chao-web
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+
+bjmuh@DESKTOP-NOOJUG5 MINGW64 /d/github/Chao-web (master)
+$ git add .
+
+bjmuh@DESKTOP-NOOJUG5 MINGW64 /d/github/Chao-web (master)
+$ git commit -m test
+On branch master
+nothing to commit, working tree clean
+
+bjmuh@DESKTOP-NOOJUG5 MINGW64 /d/github/Chao-web (master)
+$ git push origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'github.com:CHAOHOU-97/Chao-web.git'
+
+bjmuh@DESKTOP-NOOJUG5 MINGW64 /d/github/Chao-web (master)
+$ git checkout -b main
+Switched to a new branch 'main'
+
+bjmuh@DESKTOP-NOOJUG5 MINGW64 /d/github/Chao-web (main)
+$ git add .
+
+bjmuh@DESKTOP-NOOJUG5 MINGW64 /d/github/Chao-web (main)
+$ git commit -m test
+On branch main
+nothing to commit, working tree clean
+
+bjmuh@DESKTOP-NOOJUG5 MINGW64 /d/github/Chao-web (main)
+$ git push origin main
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 294 bytes | 294.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To github.com:CHAOHOU-97/Chao-web.git
+   8bcc16b..0ec779b  main -> main
