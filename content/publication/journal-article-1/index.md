@@ -1,5 +1,12 @@
 ---
 title: "PhaSepDB in 2022: annotating phase separation-related proteins with droplet states, co-phase separation partners and other experimental information"
+authors:
+- Hou C#, Wang X#, Xie H#, Chen T, Zhu P, Xu X, You K, Li T
+# author_notes:
+# - "Equal contribution"
+publication_types: ["2"]
+publication: "Nucleic Acids Res"
+url_pdf: 
 
 authors:
 - admin
@@ -30,10 +37,10 @@ publication_types: ["2"]
 publication: "*Nucleic Acids Res"
 publication_short: ""
 
-abstract: Phase separation (PS) proteins form droplets to regulate myriad membraneless organelles (MLOs) and cellular pathways such as transcription, signaling transduction and protein degeneration. PS droplets are usually liquid-like and can convert to hydrogel/solid-like under certain conditions. The PS behavior of proteins is regulated by co-PS partners and mutations, modifications, oligomerizations, repeat regions and alternative splicing of the proteins. With growing interest in PS condensates and associated proteins, we established PhaSepDB 1.0, which provided experimentally verified PS proteins and MLO-related proteins. The past few years witnessed a surge in PS-related research works; thus, we kept updating PhaSepDB. The current PhaSepDB contains 1419 PS entries, 770 low-throughput MLO-related entries and 7303 high-throughput MLO-related entries. We provided more detailed annotations of PS proteins, including PS verification experiments, regions used in experiments, phase diagrams of different experimental conditions, droplet states, co-PS partners and PS regulatory information. We believe that researchers can go further in studying PS proteins with the updated PhaSepDB (http://db.phasep.pro/).
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
