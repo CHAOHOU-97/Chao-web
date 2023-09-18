@@ -1,24 +1,26 @@
 ---
-title: "PhaSepDB in 2022: annotating phase separation-related proteins with droplet states, co-phase separation partners and other experimental information"
+title: "Serum Antigenome Profiling Reveals Diagnostic Models for Rheumatoid Arthritis"
 
 authors:
+- Peng Han
 - admin
-- Xinxin Wang
-- Haotai Xie
-- Taoyu Chen
-- Peiyu Zhu
-- Xiaofeng Xu
-- Kaiqiang You
+- Xi Zheng
+- Lulu Cao
+- Xiaomeng Shi
+- Xiaohui Zhang
+- Hua Ye
+- Hudan Pan
+- Liang Liu
 - Tingting Li
+- Fanlei Hu 
+- Zhanguo Li
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-date: "2023-01-06T00:00:00Z"
+
+date: "2022-04-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-01-06T00:00:00Z"
+publishDate: "2022-04-20T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,10 +29,11 @@ publishDate: "2023-01-06T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Nucleic Acids Research"
+publication: "Frontiers in Immunology"
 publication_short: ""
 
-abstract: Phase separation (PS) proteins form droplets to regulate myriad membraneless organelles (MLOs) and cellular pathways such as transcription, signaling transduction and protein degeneration. PS droplets are usually liquid-like and can convert to hydrogel/solid-like under certain conditions. The PS behavior of proteins is regulated by co-PS partners and mutations, modifications, oligomerizations, repeat regions and alternative splicing of the proteins. With growing interest in PS condensates and associated proteins, we established PhaSepDB 1.0, which provided experimentally verified PS proteins and MLO-related proteins. The past few years witnessed a surge in PS-related research works; thus, we kept updating PhaSepDB. The current PhaSepDB contains 1419 PS entries, 770 low-throughput MLO-related entries and 7303 high-throughput MLO-related entries. We provided more detailed annotations of PS proteins, including PS verification experiments, regions used in experiments, phase diagrams of different experimental conditions, droplet states, co-PS partners and PS regulatory information. We believe that researchers can go further in studying PS proteins with the updated PhaSepDB (http://db.phasep.pro/).
+abstract: Serum antigens were captured from a cohort consisting of 60 RA patients (45 ACPA-positive RA patients and 15 ACPA-negative RA patients), together with sex- and age-matched 30 osteoarthritis (OA) patients and 30 healthy controls. Liquid chromatography-tandem mass spectrometry (LC-MS/MS) was then performed. The significantly upregulated and downregulated proteins with fold change > 1.5 (p < 0.05) were selected. Based on these differentially expressed proteins (DEPs), a machine learning model was trained and validated to classify RA, ACPA-positive RA, and ACPA-negative RA. We identified 62, 71, and 49 DEPs in RA, ACPA-positive RA, and ACPA-negative RA, respectively, as compared to OA and healthy controls. Typical pathway enrichment and protein–protein interaction networks were shown among these DEPs. Three panels were constructed to classify RA, ACPA-positive RA, and ACPA-negative RA using random forest models algorithm based on the molecular signature of DEPs, whose area under curve (AUC) were calculated as 0.9949 (95% CI = 0.9792–1), 0.9913 (95% CI = 0.9653–1), and 1.0 (95% CI = 1–1). This study illustrated the serum auto-antigen profiling of RA. Among them, three panels of antigens were identified as diagnostic biomarkers to classify RA, ACPA-positive, and ACPA-negative RA patients.
+
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -42,7 +45,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://academic.oup.com/nar/article/51/D1/D460/6702591
+url_pdf: https://www.frontiersin.org/articles/10.3389/fimmu.2022.884462/full
 url_code: 
 url_dataset: ''
 url_poster: ''

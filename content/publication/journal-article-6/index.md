@@ -1,24 +1,22 @@
 ---
-title: "PhaSepDB in 2022: annotating phase separation-related proteins with droplet states, co-phase separation partners and other experimental information"
+title: "Investigating phase separation properties of chromatin-associated proteins using gradient elution of 1,6-hexanediol"
 
 authors:
-- admin
-- Xinxin Wang
-- Haotai Xie
-- Taoyu Chen
 - Peiyu Zhu
-- Xiaofeng Xu
-- Kaiqiang You
+- admin
+- Manlin Liu
+- Taoyu Chen
 - Tingting Li
+- Likun Wang
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-- "Equal contribution"
-date: "2023-01-06T00:00:00Z"
+
+date: "2023-08-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-01-06T00:00:00Z"
+publishDate: "2023-08-28T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,10 +25,11 @@ publishDate: "2023-01-06T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Nucleic Acids Research"
+publication: "BMC Genomics"
 publication_short: ""
 
-abstract: Phase separation (PS) proteins form droplets to regulate myriad membraneless organelles (MLOs) and cellular pathways such as transcription, signaling transduction and protein degeneration. PS droplets are usually liquid-like and can convert to hydrogel/solid-like under certain conditions. The PS behavior of proteins is regulated by co-PS partners and mutations, modifications, oligomerizations, repeat regions and alternative splicing of the proteins. With growing interest in PS condensates and associated proteins, we established PhaSepDB 1.0, which provided experimentally verified PS proteins and MLO-related proteins. The past few years witnessed a surge in PS-related research works; thus, we kept updating PhaSepDB. The current PhaSepDB contains 1419 PS entries, 770 low-throughput MLO-related entries and 7303 high-throughput MLO-related entries. We provided more detailed annotations of PS proteins, including PS verification experiments, regions used in experiments, phase diagrams of different experimental conditions, droplet states, co-PS partners and PS regulatory information. We believe that researchers can go further in studying PS proteins with the updated PhaSepDB (http://db.phasep.pro/).
+abstract: Chromatin-associated phase separation proteins establish various biomolecular condensates via liquid-liquid phase separation (LLPS), which regulates vital biological processes spatially and temporally. However, the widely used methods to characterize phase separation proteins are still based on low-throughput experiments, which consume time and could not be used to explore protein LLPS properties in bulk. By combining gradient 1,6-hexanediol (1,6-HD) elution and quantitative proteomics, we developed chromatin enriching hexanediol separation coupled with liquid chromatography-mass spectrometry (CHS-MS) to explore the LLPS properties of different chromatin-associated proteins (CAPs). First, we found that CAPs were enriched more effectively in the 1,6-HD treatment group than in the isotonic solution treatment group. Further analysis showed that the 1,6-HD treatment group could effectively enrich CAPs prone to LLPS. Finally, we compared the representative proteins eluted by different gradients of 1,6-HD and found that the representative proteins of the 2% 1,6-HD treatment group had the highest percentage of IDRs and LCDs, whereas the 10% 1,6-HD treatment group had the opposite trend. This study provides a convenient high-throughput experimental method called CHS-MS. This method can efficiently enrich proteins prone to LLPS and can be extended to explore LLPS properties of CAPs in different biological systems.
+
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -42,7 +41,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://academic.oup.com/nar/article/51/D1/D460/6702591
+url_pdf: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-023-09600-1
 url_code: 
 url_dataset: ''
 url_poster: ''
