@@ -27,9 +27,11 @@ bio: My research interests include computational biology and genetics.
 # Interests to show in About widget
 interests:
   - Protein language model
-  - Genetics
-  - Computational biology
-
+  - Functional Analysis of Genetic Mutations
+  - Precision medicine based on multi-omics data
+  - Drug designation and effect prediction via deep learning
+  - Studying cell differentiation and drug response using single-cell data
+  
 # Education to show in About widget
 education:
   courses:
