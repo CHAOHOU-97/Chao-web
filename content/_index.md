@@ -212,7 +212,7 @@ sections:
       phone: +1 201 927 3548
       # appointment_url: 'https://calendly.com'
       address:
-        street: 1130 St Nicholar Ave
+        street: 1130 St Nicholas Ave
         city: New York
         region: NY
         postcode: '10032'
