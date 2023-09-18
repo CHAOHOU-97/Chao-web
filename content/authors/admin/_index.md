@@ -82,5 +82,5 @@ email: ''
 highlight_name: true
 ---
 
-I'm a postdoc at Assoc. Prof. [Yufeng Shen](http://www.columbia.edu/~ys2411) lab @Columbia University, studying computational biology and human genetics. Before that, I got my PhD degree of Bioinformatics from Peking Univeristy. During that time, I developped computational tools to investigate phase separation and protein degradation with Porf. [Tingting Li](http://bioinfolilab.phasep.pro/), including [PhaSepDB](http://db.phasep.pro/) and [PhaSepPred](http://predict.phasep.pro/). I was born in Zhucheng, Shandong, China. I like basketball, photography and skiing. (update: Sep 2023)
+I'm a postdoc at Columbia University, I work with [Dr. Yufeng Shen](http://www.columbia.edu/~ys2411) and study computational biology and human genetics. Before that, I got my PhD degree of Bioinformatics from Peking Univeristy. During that time, I developped computational tools to investigate phase separation and protein degradation with [Dr. Tingting Li](http://bioinfolilab.phasep.pro/), including [PhaSepDB](http://db.phasep.pro/) and [PhaSepPred](http://predict.phasep.pro/). I was born in Zhucheng, Shandong, China. I like basketball, photography and skiing. (update: Sep 2023)
 {style="text-align: justify;"}
