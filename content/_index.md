@@ -159,6 +159,7 @@ sections:
   #     view: card
 
   - block: collection
+    id: featured
     content:
       title: Main Publications
       text: |-
