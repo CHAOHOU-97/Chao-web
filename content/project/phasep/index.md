@@ -29,9 +29,8 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-I've developped three bioinformatics tools for studying phase separation:
-PhaSepDB is a novel database that provides a collection of manually curated liquid-liquid phase separation (LLPS) proteins and Membraneless organelles (MLOs) located proteins.
-MloDisDB is a manually curated dataBase of the relations between membraneLess organelles and diseases
-PhaSePred is A Meta-predictor For Phase-Separating Proteins. We define and predict the LLPS proteins as self-assemble and partner-dependent, the results from catGRANULE, PScore, PLAAC, ESpritz, SEG, CIDER, DeepCoil, DeepPhase were integrated as well.
-
-I also designed experiments to investigate phase separation properties of chromatin-associated proteins using gradient elution of 1,6-hexanediol.
+I have developed three bioinformatics tools for studying phase separation:
+PhaSepDB: A novel database that provides a curated collection of liquid-liquid phase separation (LLPS) proteins and proteins located in membraneless organelles (MLOs).  
+MloDisDB: A curated database detailing the relationships between membraneless organelles and diseases.  
+PhaSePred: A meta-predictor for phase-separating proteins, distinguishing LLPS proteins as self-assembling or partner-dependent. It integrates results from tools like catGRANULE, PScore, PLAAC, ESpritz, SEG, CIDER, DeepCoil, and DeepPhase.  
+Additionally, I designed experiments to investigate the phase separation properties of chromatin-associated proteins using gradient elution with 1,6-hexanediol.  
