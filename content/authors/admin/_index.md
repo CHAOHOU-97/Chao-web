@@ -26,11 +26,10 @@ bio: My research interests include computational biology and genetics.
 
 # Interests to show in About widget
 interests:
+  - Protein dynamics and multi-conformation
   - Protein language model
   - Functional Analysis of Genetic Mutations
-  - Precision medicine based on multi-omics data
-  - Drug designation and effect prediction via deep learning
-  - Studying cell differentiation and drug response using single-cell data
+  - Drug designation and effect prediction
   
 # Education to show in About widget
 education:
@@ -82,5 +81,7 @@ email: ''
 highlight_name: true
 ---
 
-I'm a postdoc at Columbia University, I work with [Dr. Yufeng Shen](http://www.columbia.edu/~ys2411) and study computational biology and human genetics. Before that, I got my PhD degree of Bioinformatics from Peking Univeristy. During that time, I developped computational tools to investigate phase separation and protein degradation with [Dr. Tingting Li](http://bioinfolilab.phasep.pro/), including [PhaSepDB](http://db.phasep.pro/) and [PhaSepPred](http://predict.phasep.pro/). I was born in Zhucheng, Shandong, China. I like basketball, photography and skiing. (update: Sep 2023)
+I’m a postdoc at Columbia University, working with [Dr. Yufeng Shen](http://www.columbia.edu/~ys2411) to study computational biology and human genetics. My research focuses on protein dynamics and multi-conformation through deep learning, and how mutations influence protein behavior. I earned my PhD in Bioinformatics from Peking University, where I developed computational tools to investigate [phase separation](http://lab.phasep.pro/) and [protein degradation](http://degron.phasep.pro/) with [Dr. Tingting Li](http://bioinfolilab.phasep.pro/).  
+I was born in Zhucheng, Shandong, China, and enjoy basketball, photography, and skiing.  
+(update: Oct 2024)
 {style="text-align: justify;"}
