@@ -209,7 +209,6 @@ sections:
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: ch3849@cumc.columbia.edu
-      phone: +1 201 927 3548
       # appointment_url: 'https://calendly.com'
       address:
         street: 1130 St Nicholas Ave
