@@ -26,8 +26,8 @@ bio: My research interests include computational biology and genetics.
 
 # Interests to show in About widget
 interests:
-  - Protein dynamics and multi-conformation
   - Protein language model
+  - Protein dynamics and multi-conformation
   - Functional Analysis of Genetic Mutations
   - Drug designation and effect prediction
   
@@ -81,7 +81,8 @@ email: ''
 highlight_name: true
 ---
 
-I’m a postdoc at Columbia University, working with [Dr. Yufeng Shen](http://www.columbia.edu/~ys2411) to study computational biology and human genetics. My research focuses on protein dynamics and multi-conformation through deep learning, and how mutations influence protein behavior. I earned my PhD in Bioinformatics from Peking University, where I developed computational tools to investigate [phase separation](http://lab.phasep.pro/) and [protein degradation](http://degron.phasep.pro/) with [Dr. Tingting Li](http://bioinfolilab.phasep.pro/).  
-I was born in Zhucheng, Shandong, China, and enjoy basketball, photography, and skiing.  
-(update: Oct 2024)
+I’m a postdoc at Columbia University in the [Shen Lab](http://www.columbia.edu/~ys2411), focusing on computational biology and human genetics. Currently, my work centers on predicting the selection coefficients of missense mutations using state-of-the-art deep learning models. I developed [SeqDance and ESMDance](https://www.biorxiv.org/content/10.1101/2024.10.11.617911v2), two protein language models trained on protein dynamics data, and demonstrated the scaling performance of ESM2 on [mutation effect prediction](https://www.biorxiv.org/content/10.1101/2025.04.25.650688v1).
+I earned my Ph.D. in Bioinformatics from Peking University in the [Li Lab](http://bioinfolilab.phasep.pro/), where I built computational tools for studying [phase separation](http://lab.phasep.pro/) and [protein degradation](http://degron.phasep.pro/).
+I was born in Zhucheng, China, and I enjoy basketball, photography, and skiing.
+*Updated: May 2025*
 {style="text-align: justify;"}
