@@ -81,8 +81,8 @@ email: ''
 highlight_name: true
 ---
 
-I’m a postdoc at Columbia University in the [Shen Lab](http://www.columbia.edu/~ys2411), focusing on computational biology and human genetics. Currently, my work centers on predicting the selection coefficients of missense mutations using state-of-the-art deep learning models. I developed [SeqDance and ESMDance](https://www.biorxiv.org/content/10.1101/2024.10.11.617911v2), two protein language models trained on protein dynamics data, and demonstrated the scaling performance of ESM2 on [mutation effect prediction](https://www.biorxiv.org/content/10.1101/2025.04.25.650688v1).  
+I’m a postdoc at Columbia University in the [Shen Lab](http://www.columbia.edu/~ys2411), where I focus on applying AI for biology. My work centers on developing and interpreting deep learning models, with a particular emphasis on protein language models. I’m interested in exploring how protein structural dynamics can be incorporated into deep learning models and how to accurately predict protein fitness landscapes. I developed [SeqDance and ESMDance](https://www.biorxiv.org/content/10.1101/2024.10.11.617911v2), two protein language models trained on protein dynamics data. I explained the scaling behaviour of ESM2 and other models on [fitness prediction](https://www.biorxiv.org/content/10.1101/2025.04.25.650688v1).  
 I earned my Ph.D. in Bioinformatics from Peking University in the [Li Lab](http://bioinfolilab.phasep.pro/), where I built computational tools for studying [phase separation](http://lab.phasep.pro/) and [protein degradation](http://degron.phasep.pro/).  
 I was born in Zhucheng, China, and I enjoy basketball, photography, and skiing.  
-*Updated: May 2025*
+*Updated: Aug 2025*
 {style="text-align: justify;"}
