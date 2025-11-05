@@ -22,7 +22,7 @@ organizations:
     url: https://www.columbia.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational biology and genetics.
+bio: My research interest is AI4biology.
 
 # Interests to show in About widget
 interests:
@@ -82,8 +82,7 @@ email: ''
 highlight_name: true
 ---
 
-I’m a postdoc at Columbia University in the [Shen Lab](http://www.columbia.edu/~ys2411), where I focus on applying AI for biology. My work centers on developing and interpreting deep learning models, with a particular emphasis on protein language models. I’m interested in exploring how protein structural dynamics can be incorporated into deep learning models and how to accurately predict protein fitness landscapes. I developed [SeqDance and ESMDance](https://www.biorxiv.org/content/10.1101/2024.10.11.617911v2), two pLMs trained on protein dynamics data. I explained the scaling behaviour of pLMs on [fitness prediction](https://www.biorxiv.org/content/10.1101/2025.04.25.650688v1). I also developed [MotifAE](https://www.biorxiv.org/content/10.1101/2025.11.04.686576v1) for unsupervised discovery of functional motifs from pLMs.
-
+I’m a postdoc at Columbia University in the [Shen Lab](http://www.columbia.edu/~ys2411), where I focus on applying AI for biology. My work centers on developing and interpreting deep learning models, with a particular emphasis on protein language models (pLMs). I’m interested in exploring how protein structural dynamics can be incorporated into deep learning models and how to accurately predict protein fitness landscapes. I developed [SeqDance and ESMDance](https://www.biorxiv.org/content/10.1101/2024.10.11.617911v2), two pLMs trained on protein dynamics data. I explained the scaling behaviour of pLMs on [fitness prediction](https://www.biorxiv.org/content/10.1101/2025.04.25.650688v1). I also developed [MotifAE](https://www.biorxiv.org/content/10.1101/2025.11.04.686576v1) for unsupervised discovery of functional motifs from pLMs.
 I earned my Ph.D. in Bioinformatics from Peking University in the [Li Lab](http://bioinfolilab.phasep.pro/), where I built computational tools for studying [phase separation](http://lab.phasep.pro/) and [protein degradation](http://degron.phasep.pro/).  
 I was born in Zhucheng, China, my Chinese name is 侯超. I like basketball, photography, and skiing.  
 *Updated: Nov 2025*

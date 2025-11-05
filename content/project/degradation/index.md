@@ -1,5 +1,5 @@
 ---
-title: Bioinformatics tools for protein degradation
+title: Predicting E3 ligase binding site
 summary: Degpred-predict degron via deep learning
 tags:
   - Protein Degradation
