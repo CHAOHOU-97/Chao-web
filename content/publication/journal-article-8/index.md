@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.biorxiv.org/content/10.1101/2025.04.25.650688v1
+url_pdf: https://www.biorxiv.org/content/10.1101/2025.04.25.650688v3
 url_code: 
 url_dataset: ''
 url_poster: ''
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [dynamic]
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
