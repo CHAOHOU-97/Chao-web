@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chao Hou 侯超
+title: Chao Hou
 
 # Full name (for SEO)
 first_name: Chao
@@ -26,23 +26,24 @@ bio: My research interests include computational biology and genetics.
 
 # Interests to show in About widget
 interests:
-  - Protein language model
-  - Protein dynamics and multi-conformation
+  - Biological sequence > structure ensemble > function > evolution
+  - Large language model for biological sequences
   - Functional Analysis of Genetic Mutations
-  - Drug designation and effect prediction
+  - Biomolecular interactions and subcellular localization
+  - Biomolecular design
   
 # Education to show in About widget
 education:
   courses:
     - course: Postdoc
       institution: Columbia University
-      year: 2023-
+      year: 2023.09-
     - course: PhD of Bioinformatics
       institution: Peking University
-      year: 2020-2023
+      year: 2020.09-2023.07
     - course: Bachelor of Medicine and Economics
       institution: Peking University
-      year: 2015-2020
+      year: 2015.09-2020.07
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
