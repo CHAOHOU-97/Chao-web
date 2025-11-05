@@ -1,6 +1,6 @@
 ---
 title: Predicting E3 ligase binding site
-summary: Degpred-predict degron via deep learning
+summary: Degpred predicts degron and binding E3 via deep learning
 tags:
   - Protein Degradation
 date: '2022-07-27T00:00:00Z'
