@@ -26,11 +26,10 @@ bio: My research interest is AI4biology.
 
 # Interests to show in About widget
 interests:
-  - Biological sequence > structure ensemble > function > evolution
-  - Large language model for biological sequences
-  - Functional Analysis of Genetic Mutations
-  - Biomolecular interactions and subcellular localization
-  - Biomolecular design
+  - Biological sequence → structure ensemble → function and fitness → evolution
+  - Representation and generative deep learning of biomolecules
+  - Predicting the effects of genetic variants for precision medicine
+  - Biomolecular interaction network and subcellular localization
   
 # Education to show in About widget
 education:
@@ -38,7 +37,7 @@ education:
     - course: Postdoc
       institution: Columbia University
       year: 2023.09-
-    - course: PhD of Bioinformatics
+    - course: PhD of Biomedical Informatics
       institution: Peking University
       year: 2020.09-2023.07
     - course: Bachelor of Medicine and Economics
@@ -82,8 +81,12 @@ email: ''
 highlight_name: true
 ---
 
-I’m a postdoc at Columbia University in the [Shen Lab](http://www.columbia.edu/~ys2411), where I focus on applying AI for biology. My work centers on developing and interpreting deep learning models, with a particular emphasis on protein language models (pLMs). I’m interested in exploring how protein structural dynamics can be incorporated into deep learning models and how to accurately predict protein fitness landscapes. I developed [SeqDance and ESMDance](https://www.biorxiv.org/content/10.1101/2024.10.11.617911v2), two pLMs trained on protein dynamics data. I explained the scaling behaviour of pLMs on [fitness prediction](https://www.biorxiv.org/content/10.1101/2025.04.25.650688v1). I also developed [MotifAE](https://www.biorxiv.org/content/10.1101/2025.11.04.686576v1) for unsupervised discovery of functional motifs from pLMs.  
-I earned my Ph.D. in Bioinformatics from Peking University in the [Li Lab](http://bioinfolilab.phasep.pro/), where I built computational tools for studying [phase separation](http://lab.phasep.pro/) and [protein degradation](http://degron.phasep.pro/).  
-I was born in Zhucheng, China, my Chinese name is 侯超. I like basketball, photography, and skiing.  
-*Updated: Nov 2025*
+I am a computational biologist focusing on biomolecular fitness landscapes and biomolecular interaction/regulation, which I believe form the foundation of future *in silico* (virtual) biology.
+
+I am currently a postdoc with [Yufeng Shen](http://www.columbia.edu/~ys2411) at Columbia University, where I investigate protein fitness landscapes from both evolutionary and biophysical (protein dynamics) perspectives. I developed [SeqDance and ESMDance](https://www.pnas.org/doi/10.1073/pnas.2530466123), two protein language models (pLMs) trained on protein dynamics data. I explained the scaling behavior of pLMs for [fitness prediction](https://www.biorxiv.org/content/10.1101/2025.04.25.650688v2) (why larger models do not always perform better). I also developed [MotifAE](https://www.biorxiv.org/content/10.1101/2025.11.04.686576v2) for unsupervised discovery of functional motifs from pLM.
+
+I received my Ph.D. in Biomedical Informatics from Peking University with [Tingting Li](http://bioinfolilab.phasep.pro/). During my doctoral work, I studied biomolecular interactions involved in [degradation regulation](http://degron.phasep.pro/) and protein localization mediated by [phase separation](http://lab.phasep.pro/).
+
+I was born in Zhucheng, Shandong, China (Chinese name: 侯超). Outside of research, I enjoy basketball, photography, travel, and food.  
+*Updated: April 2026*
 {style="text-align: justify;"}
