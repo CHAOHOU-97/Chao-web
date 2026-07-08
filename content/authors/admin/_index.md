@@ -26,10 +26,11 @@ bio: My research interest is AI4biology.
 
 # Interests to show in About widget
 interests:
-  - Biological sequence → structure ensemble → function and fitness → evolution
-  - Representation and generative deep learning of biomolecules
-  - Predicting the effects of genetic variants for precision medicine
-  - Biomolecular interaction network and subcellular localization
+  - "AI-based biomolecule modeling from first principles: sequence → structure ensemble → function / fitness → evolution"
+  - "AI-based whole-cell modeling linking molecular mechanisms to cellular phenotypes"
+  - "Phase separation of intrinsically disordered regions"
+  - "Predicting the effects of genetic variants for precision medicine"
+
   
 # Education to show in About widget
 education:
@@ -83,5 +84,5 @@ highlight_name: true
 
 I am a computational biologist focusing on biomolecules and their interaction and regulation, which form the molecular foundation of biomedical science and future *in silico* (virtual) biology. I am currently a postdoc with [Yufeng Shen](http://www.columbia.edu/~ys2411) at Columbia University, where I investigate protein fitness landscapes from both evolutionary and biophysical perspectives. I developed [SeqDance and ESMDance](https://www.pnas.org/doi/10.1073/pnas.2530466123), two protein language models (pLMs) trained on protein dynamics data. I explained the scaling behavior of pLMs for [fitness prediction](https://www.biorxiv.org/content/10.1101/2025.04.25.650688v2) (why larger models do not always perform better). I also developed [MotifAE](https://www.biorxiv.org/content/10.1101/2025.11.04.686576v2) for unsupervised discovery of functional motifs from pLM. I received my Ph.D. in Biomedical Informatics from Peking University with [Tingting Li](http://bioinfolilab.phasep.pro/). During my doctoral work, I studied biomolecular interactions involved in [degradation regulation](http://degron.phasep.pro/) and protein localization mediated by [phase separation](http://lab.phasep.pro/).  
 I was born in Zhucheng, Shandong, China (Chinese name: 侯超). Outside of research, I enjoy basketball, photography, travel, and food.  
-*Updated: April 2026*
+*Updated: July 2026*
 {style="text-align: justify;"}
